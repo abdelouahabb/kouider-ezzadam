@@ -14,4 +14,6 @@ The job was for someone, he was not satisfacted, so i release it here, that is h
 How to use it
 ===============
 
-just run the script with the command `-h` to see the argument you provide.
+just run the script with the command `-h` to see the arguments you provide (in the terminal of course).
+
+if you want to change the function, just change `md5` with your hashing function :)
